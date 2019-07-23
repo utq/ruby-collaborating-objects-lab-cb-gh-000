@@ -1,3 +1,5 @@
+require_relative "artist.rb"
+require_relative "song.rb"
 class MP3Importer
 
   attr_reader :path
