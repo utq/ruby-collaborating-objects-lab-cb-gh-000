@@ -1,3 +1,6 @@
+require_relative "artist.rb"
+require_relative "mp3_importer.rb"
+
 class Song
 
   attr_accessor :name, :artist
